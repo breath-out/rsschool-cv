@@ -1,1 +1,1 @@
-https://github.com/breath-out/rsschool-cv/cv
+https://github.com.github.io/breath-out/rsschool-cv/cv

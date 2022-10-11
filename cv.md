@@ -13,6 +13,7 @@
 - Bootstrap
 - Git
 - VSCode
+- Browser code inspection, browser console
 
 #### Sample of personal projects
 * https://bustling-wooded-guava.glitch.me

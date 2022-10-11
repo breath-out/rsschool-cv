@@ -29,6 +29,7 @@
 #### Education
 * Introduction to Web Development (HTML5, CSS3,Bootstrap)  CanSheCode Inc.
 * JavaScript Bootcamp (intensive course) CanSheCode Inc.
+* Master degree in psychology, Tomsk State University, Rusiia, 2008
 
 #### English
 Fluent and professional use of the language

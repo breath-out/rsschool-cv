@@ -1,0 +1,24 @@
+.block {
+  background-color: blanchedalmond;
+  width: 80%;
+  margin: auto;
+}
+
+.myGithub {
+  text-decoration: none;
+}
+
+header,
+main,
+footer {
+  margin-left: 20%;
+  font-family: "Roboto", sans-serif;
+}
+
+footer {
+  margin-top: 20px;
+  border: 1px solid black;
+  width: 300px;
+  margin-left: 70%;
+  text-align: center;
+}
